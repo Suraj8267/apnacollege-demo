@@ -5,4 +5,4 @@ Author - Suraj Singh
 <br>
 Btech CSE(AI/ML)
 <br>
-Data Science Enthusiast
+Data Science Enthusiast and Data Analytics Enthuasist
